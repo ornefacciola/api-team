@@ -1,4 +1,5 @@
-# api-team
+# E-ccomerce API Team
 Grupo 6 
 Integrantes: 
-Lucia, Ornella, Carmela, Nicolás, Ignacio
+<br>
+Lucia, Ornella, Carmela, Nicolás, Ignacio </br>
